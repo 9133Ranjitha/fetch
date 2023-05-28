@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(114, 197, 197);
+}
+input{
+    width: 400px;
+    height:30px;
+    margin-left: 450px;
+}
+::placeholder {
+    text-align: center;
+
+}
